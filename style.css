@@ -28,14 +28,19 @@ h1{
 
 h3{
     font-size: 18px; 
-    color: #565555; 
+    color: #2b2eb1; 
     font-weight: normal; 
     margin-top: 10px; 
+    text-align: center;
 }
 
 h5{
     font-size: 18px; 
-    color: #565555; 
+    color: #141313; 
     font-weight: normal; 
     margin-top: 10px;  
+}
+
+h4{
+    color: brown;
 }
