@@ -1,0 +1,41 @@
+.navbar{
+    background-color:cyan;
+    padding: 10px;
+    width: 100%;
+    margin-top: 0% 0 0 ;
+ }
+
+ .vehiculos {
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    margin: 20px auto; 
+    max-width: 600px
+}
+
+body{
+    background-color:antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 30px;
+    color:darkblue;
+    text-align: center;
+}
+
+h3{
+    font-size: 18px; 
+    color: #565555; 
+    font-weight: normal; 
+    margin-top: 10px; 
+}
+
+h5{
+    font-size: 18px; 
+    color: #565555; 
+    font-weight: normal; 
+    margin-top: 10px;  
+}
